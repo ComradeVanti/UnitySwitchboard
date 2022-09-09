@@ -8,6 +8,7 @@
     "name": "ComradeVanti"
   },
   "dependencies": {
+    "dev.comradevanti.rect-constraints": "1.0.3"
   },
   "keywords": [
     "utility",
