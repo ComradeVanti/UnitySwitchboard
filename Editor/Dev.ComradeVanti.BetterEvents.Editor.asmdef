@@ -1,6 +1,6 @@
 {
     "name": "Dev.ComradeVanti.BetterEvents.Editor",
-    "rootNamespace": "",
+    "rootNamespace": "Dev.ComradeVanti.BetterEvents",
     "references": [
         "GUID:7fa39948bc7ba994b9332254d214b2cd"
     ],
